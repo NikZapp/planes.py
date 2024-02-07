@@ -1,0 +1,30 @@
+{
+ "bksp+-": [
+  "Builtin",
+  "Remove"
+ ],
+ "bksp+=": [
+  "Builtin",
+  "Echo"
+ ],
+ "bksp+p": [
+  "Builtin",
+  "Duplicate"
+ ],
+ "bksp+[": [
+  "Builtin",
+  "Swap top"
+ ],
+ "bksp+]": [
+  "Builtin",
+  "Cycle (3)"
+ ],
+ "bksp+;": [
+  "Builtin",
+  "Pos to block"
+ ],
+ "ctrl+f": [
+  "Builtin",
+  "Fill"
+ ]
+}
